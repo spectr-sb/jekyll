@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post1
 title: You're up and running!
 ---
 
